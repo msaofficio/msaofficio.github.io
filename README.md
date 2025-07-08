@@ -19,4 +19,4 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 ## 📷 Preview
 
-![Screenshot](preview-image.png)  
+![Screenshot](preview.png)  
